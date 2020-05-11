@@ -1,13 +1,9 @@
-# Code Battlefield
+# Web Code Battlefield
 
-# Web practice
+# Practice
 
 React
 Jest
 Enzyme
 TypeScript
 
-# Mobile practice
-
-React
-React Native
